@@ -1,6 +1,6 @@
 # Nonword Generator and Text Analyzer
 
-This project, developed by the Pataphysical Society of New York (https://patanyc.org), consists of a Nonword Generator and a Text Analyzer. These tools are designed to aid research into the nature of uselessness. Example datasets and texts for analysis are also included. Findings from this research are published at https://patanyc.org/nonwords
+This project, developed by The Pataphysical Society of New York (https://patanyc.org), consists of a Nonword Generator and a Text Analyzer. These tools are designed to aid research into the nature of uselessness. Example datasets and texts for analysis are also included. Findings from this research are published at https://patanyc.org/nonwords.
 
 ## Nonword Generator
 
